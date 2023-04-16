@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Marcus Aurelius 
 =======
 Napoleon
 >>>>>>> d1c2e456b99abe96ea34a999907e327fd46ad599
+=======
+Johnny Appleseed
+>>>>>>> 53cd71ae5b49e9fe3de927168361ff54ff894d26
 Joan of Arc
 Abraham Lincoln
